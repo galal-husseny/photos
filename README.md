@@ -14,4 +14,6 @@
 - **php artisan key:generate**
 ## Create Database with "photos" Name And run in your terminal
 - **php artisan migrate --seed**
+## Then You Can Serve Your Project
+- **php artisan serve**
 
